@@ -1,0 +1,27 @@
+/*
+* Get all available functions.
+*/
+
+1:  wpcp_get_available_post_type:
+                                 it have all the post type which is available in website.
+
+2: 
+
+
+
+
+
+/*
+* Get all the key which is used in plugin.
+*/
+
+
+Key : wpcp_post_type_settings : 
+                              it is used to save the post type : settings => wp content protection.
+
+key : wpcp_content_protection_msg :
+                               It is used to show the protection message when anyone visit the page/post.
+
+key : wpcp_wrongpass_msg  :
+                            Now it is used for specially password protection mechanism. When password will wrong then it will display.
+

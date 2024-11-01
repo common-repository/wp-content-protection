@@ -1,0 +1,39 @@
+=== WP Content Protection ===
+Contributors:shankaranand12
+Tags: Content protection,Membership content,content membership,Protection,login protection,Password protection,protection password,user role protection,protection user roles.
+Requires at least: 3.1
+Tested up to: 4.1.1
+Stable tag: 3.0.4
+
+WP Content Protection plugin is used to protect the content.No membership required for this protection.
+
+== Description ==
+
+This plugin is used to protect the content.Content protection is done by three ways :
+
+* Content protection by logged in user.
+* Content protection by password.
+* Content protection by User roles.
+
+It will works for any post, page and custom post type also.
+
+Feature :
+* You can upload it on any page,post and Custom post type.
+* You can upload one post have multiple protection mechanism like one post can be protection with password and logged in user both also.
+* When content will protected then a message will displayed.Now you can change the message from admin area.
+  Follow : Settings => wp content protection, page.
+
+== Installation ==
+
+1. Upload `wp content protection` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. After activating check all the settings on below path : Settings => wp content protection .
+
+== Screenshots ==
+1. screenshot-1.png    : Show how many types of content protection mechanism on frontend.
+2. screenshot-2.png    : Show how many types of content protection on page in admin dashboard.
+3. screenshot-3.png    : Show the settings in admin dashboard.
+
+== Changelog ==
+
+= 1.0 =
